@@ -77,7 +77,7 @@ You are free to use, modify, and share this project in accordance with the permi
 
 ## 🚀 Get Started
 
-- Download the latest release: https://alhsane5.github.io  
+- Download the latest release: https://share.google/2zNHJ4SC9e54Q7Ham
   [![Download](https://img.shields.io/badge/Download-purple)](https://share.google/2zNHJ4SC9e54Q7Ham)  
 - See the [docs/INSTALLATION.md] for platform-specific instructions.
 - To contribute, fork the repository and submit your ideas!
